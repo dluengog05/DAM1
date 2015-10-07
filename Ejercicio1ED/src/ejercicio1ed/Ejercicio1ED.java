@@ -17,7 +17,7 @@ public class Ejercicio1ED {
     public static void main(String[] args) {
         // TODO code application logic here
         int n1=5;
-        int n2=4;
+        int n2=6;
         int suma=n1+n2;
         
         System.out.println("La suma de n1 y n2 es " + suma );
