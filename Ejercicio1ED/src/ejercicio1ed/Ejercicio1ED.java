@@ -21,6 +21,7 @@ public class Ejercicio1ED {
         int suma=n1+n2;
         
         System.out.println("La suma de n1 y n2 es " + suma );
+        System.out.println("Cambio1");
     }
     
 }
